@@ -26,7 +26,7 @@ title: Prem ist der Guid meines letzten Nepal-Aufenthalts
 |                 |     |   Anmerkungen  | 
 | --------------- | --- | --- |
 | **Preis**       | €   |     |
-| Datum (von/bis) |   15 Tage  |     |
+| Datum (von/bis) |   15 Tage  |  Datum muss geklärt werden  |
 
 ##### Email Korrespondenz
 
@@ -69,6 +69,11 @@ Sajan
 - Kontakt: [Suman lama](https://www.instagram.com/lama7448/) (Ihn kenne ich über einen Freund von Nobbin der im Riwwelmaddes arbeitet)
 - Agentur: [LetsTripNepal](https://www.letstripnepal.com/tour/manaslu-circuit-trek/)
 
+|                 |     |   Anmerkungen  | 
+| --------------- | --- | --- |
+| **Preis**       | €   |     |
+| Datum (von/bis) |   15 Tage$^{*}$  |  Datum muss geklärt werden  |
+$^{*}$ [[Users/simonnicklas/Basislager/999_Backlock/Nepal 2023#\|#]]
 
 ### Versicherung
 
@@ -91,11 +96,8 @@ Liste:
 ### Manaslu Circuit
 
 #### Steckbrief der Route
-
-
-
+#### Ettappen
 #### Linksammlung
-
 -   [Reisebericht](https://wetraveltheworld.de/manaslu-circuit-reisetipps/)
     -   Laut den beiden schwerer als _Anapurna_
 
