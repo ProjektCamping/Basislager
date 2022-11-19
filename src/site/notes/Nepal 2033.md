@@ -12,9 +12,8 @@
 - [Link-bearbeitbar](https://cloud.squirrel-boost.de/index.php/s/L4bFKtgG7ZiFsQz) PW:NichtChristSondern
 
 ## Vorbereitung
-```ad-info
-title: [Link des Auswertigenamts](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/nepal-node/nepalsicherheit/221216#content_0)
- ```
+> [!INFO] [Link des Auswertigenamts](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/nepal-node/nepalsicherheit/221216#content_0)
+
  ### Einreise
 #### Visum
 Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das vorab bei einer nepalesischen Auslandsvertretung beantragt werden muss.
@@ -34,17 +33,14 @@ Devisen können in allen größeren Städten problemlos getauscht werden. Die in
 ### Impfung
 
 #### COVID
-``` ad-warning
-title: checken vor Abflug
-```
+>[!WARNING] checken vor Abflug
+
 
 - Stand: [[Day-Notes/2022/11-November/2022-11-19-Saturday\|2022-11-19-Saturday]]
 	- Für die Einreise ist entweder ein Nachweis über die ==vollständige COVID-19-Impfung ==oder ein negativer PCR-Test erforderlich. 
 	- Als vollständig geimpft gelten alle Reisenden 14 Tage nach der letzten notwendigen Impfung gemäß den WHO-Richtlinien für vollständigen Impfschutz. ==Der Impfnachweis (in Englisch) ist mitzuführen.==
-```ad-info
+>[!INFO]
 Es gelten weiterhin Abstands- und Hygieneregeln sowie die Pflicht zum Tragen eines Mund-Nasen-Schutzes im öffentlichen Raum.
-```
-
 
 ### Versicherung
 #### Reiserücktritt
@@ -58,10 +54,7 @@ Liste:
 ### Impfung
 ### Guide
 #### Ganesh Trekkin
-```ad-info
-title: Prem ist der Guid meines letzten Nepal-Aufenthalts
-```
-
+>[!INFO] Prem ist der Guid meines letzten Nepal-Aufenthalts
 - **Email:** ganeshTrekking@gmail.com
 |                 |     |   Anmerkungen  | 
 | --------------- | --- | --- |
@@ -70,40 +63,29 @@ title: Prem ist der Guid meines letzten Nepal-Aufenthalts
 
 ##### Email Korrespondenz
 
-``` ad-note
-title: [[2022-11-19-Saturday]] outEmail
-Namaste,
+ > [!note]+ [[Day-Notes/2022/11-November/2022-11-19-Saturday\|2022-11-19-Saturday]] outEmail
+>Namaste,
+>Simon here, a German friend of Prem. He guided us some years ago in Nepal. And we had a very nice time together. 
+>Now I want to come back with 2 friend to Nepal next year again. 
+>We will arrive on 25.03.2023 (flights are booked) in Kathmandu and want to do the Manaslu Circuit. I was already having contact with Prem, if he could guide us on that track. He now said, that I should send you an email to get more informations from you about the track, price, preparation and other stuff. So that I am doing now. 
+>So we would be very thankful to receive more informations from you. 
+>We a looking forward to hear from you.
+>All the best 
+>Simon & Paul & Lukas
 
-Simon here, a German friend of Prem. He guided us some years ago in Nepal. And we had a very nice time together. 
-
-Now I want to come back with 2 friend to Nepal next year again. 
-
-We will arrive on 25.03.2023 (flights are booked) in Kathmandu and want to do the Manaslu Circuit. I was already having contact with Prem, if he could guide us on that track. He now said, that I should send you an email to get more informations from you about the track, price, preparation and other stuff. So that I am doing now. 
-So we would be very thankful to receive more informations from you. 
-
-We a looking forward to hear from you.
-
-All the best 
-Simon & Paul & Lukas
-```
-
-``` ad-note
-title: [[2022-11-19-Saturday]] inEmail
-
-Greetings from Ganesh trekking,
-
-We are very excited to hear that you are again coming to visit Nepal. I will send you the program this coming week. Before that, i would like to know something about you. Since you guys are three in number, which room do you prefer to stay in? Triple room or one double & one single? Standard room or deluxe room? How many total days do you want to stay in Nepal beside trekking(15days)? How many porters do u want to hire for trekking?
-
-After I get all other information, I will send you a price offer and your program here in Nepal.
-
+>[!note]+ [[Day-Notes/2022/11-November/2022-11-19-Saturday\|2022-11-19-Saturday]]  inEmail
+>
+>Greetings from Ganesh trekking,
+>
+>We are very excited to hear that you are again coming to visit Nepal. I will send you the program this coming week. Before that, i would like to know something about you. Since you guys are three in number, which room do you prefer to stay in? Triple room or one double & one single? Standard room or deluxe room? How many total days do you want to stay in Nepal beside trekking(15days)? How many porters do u want to hire for trekking?
+>
+>After I get all other information, I will send you a price offer and your program here in Nepal.
+>
 Hoping to get response from you soon. 
-
-Thanks and best regards,
-
-Sajan
-
-
-```
+>
+>Thanks and best regards,
+>
+>Sajan
 
 #### Lets trip Nepal
 - Kontakt: [Suman lama](https://www.instagram.com/lama7448/) (Ihn kenne ich über einen Freund von Nobbin der im Riwwelmaddes arbeitet)
