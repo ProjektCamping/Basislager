@@ -4,10 +4,7 @@
 
 #Reise #Nepal
 
-```ad-important
-title: 25.03.2023 bis 16.04.2023
-color: 200, 100, 50 
-```
+> [!TIP] 25.03.2023 bis 16.04.2023
 
 ---
 ### Cloud File
