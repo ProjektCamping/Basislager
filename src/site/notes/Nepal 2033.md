@@ -37,7 +37,7 @@ Devisen können in allen größeren Städten problemlos getauscht werden. Die in
 ### Impfung
 
 #### COVID
-```ad-warning
+``` ad-warning
 title: checken vor Abflug
 ```
 
