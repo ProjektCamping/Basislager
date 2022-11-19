@@ -7,14 +7,10 @@
 > [!TIP] 25.03.2023 bis 16.04.2023
 
 ---
-### Cloud File
-- [Raw-MD](https://cloud.squirrel-boost.de/index.php/s/YRTJQ4ZNaz3dZNE/download/nepal2023.md)
-- [Link-bearbeitbar](https://cloud.squirrel-boost.de/index.php/s/L4bFKtgG7ZiFsQz) PW:NichtChristSondern
-
-## Vorbereitung
+# Vorbereitung
 > [!INFO] [Link des Auswertigenamts](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/nepal-node/nepalsicherheit/221216#content_0)
 
- ### Einreise
+### Einreise
 #### Visum
 Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das vorab bei einer nepalesischen Auslandsvertretung beantragt werden muss.
 Aktuelle Einreise- und Visabestimmungen und Gebühren bieten das [Department of Immigration](http://www.immigration.gov.np/) und die [nepalesische Botschaft in Berlin](http://de.nepalembassy.gov.np/).
@@ -31,6 +27,8 @@ Neben Kreditkarten empfiehlt sich die Mitnahme von EUR oder USD in bar, insbeson
 Devisen können in allen größeren Städten problemlos getauscht werden. Die indische Rupie (INR) ist in Nepal frei konvertierbar, allerdings werden Scheine in der Regel nur bis max. 100 INR-Noten akzeptiert.
 
 ### Impfung
+>[!INFO] Impfung
+>Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben.
 
 #### COVID
 >[!WARNING] checken vor Abflug
@@ -312,3 +310,8 @@ ___
 ![imagepng](file:///Users/simonnicklas/Basislager/999_Backlock/.attachments.991591/image.png?msec=1668853488775)![image 2png](file:///Users/simonnicklas/Basislager/999_Backlock/.attachments.991591/image%20%282%29.png?msec=1668853488774)
 
 ## Zeitplan
+
+
+### Cloud File
+- [Raw-MD](https://cloud.squirrel-boost.de/index.php/s/YRTJQ4ZNaz3dZNE/download/nepal2023.md)
+- [Link-bearbeitbar](https://cloud.squirrel-boost.de/index.php/s/L4bFKtgG7ZiFsQz) PW:NichtChristSondern
