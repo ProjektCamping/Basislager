@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nepal-2033/"}
+{"dg-publish":true,"permalink":"/nepal-2033/","dgPassFrontmatter":true}
 ---
 
 #Reise #Nepal
@@ -56,7 +56,8 @@ Liste:
 #### Ganesh Trekkin
 >[!INFO] Prem ist der Guid meines letzten Nepal-Aufenthalts
 - **Email:** ganeshTrekking@gmail.com
-|                 |     |   Anmerkungen  | 
+
+|                  |      |   Anmerkungen  | 
 | --------------- | --- | --- |
 | **Preis**       | €   |     |
 | Datum (von/bis) |   15 Tage  |     |
@@ -91,10 +92,12 @@ Hoping to get response from you soon. 
 - Kontakt: [Suman lama](https://www.instagram.com/lama7448/) (Ihn kenne ich über einen Freund von Nobbin der im Riwwelmaddes arbeitet)
 - Agentur: [LetsTripNepal](https://www.letstripnepal.com/tour/manaslu-circuit-trek/)
 
-|                 |     |   Anmerkungen  | 
-| --------------- | --- | --- |
-| **Preis**       | €   |     |
-| Datum (von/bis) |   15 Tage$^{*}$  |  Datum muss geklärt werden  |
+|                 |               | Anmerkungen               |
+| --------------- | ------------- | ------------------------- |
+| **Preis**       | €             |                           |
+| Datum (von/bis) | 15 Tage$^{*}$ | Datum muss geklärt werden |
+|                 |               |                           |
+
 $^{*}$  siehe: [[Nepal 2033#Streckenverlauf\|#Streckenverlauf]]
 
 
