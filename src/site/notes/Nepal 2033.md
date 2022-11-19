@@ -15,6 +15,50 @@ color: 200, 100, 50
 - [Link-bearbeitbar](https://cloud.squirrel-boost.de/index.php/s/L4bFKtgG7ZiFsQz) PW:NichtChristSondern
 
 ## Vorbereitung
+```ad-info
+title: [Link des Auswertigenamts](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/nepal-node/nepalsicherheit/221216#content_0)
+ ```
+ ### Einreise
+#### Visum
+Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das vorab bei einer nepalesischen Auslandsvertretung beantragt werden muss.
+Aktuelle Einreise- und Visabestimmungen und Gebühren bieten das [Department of Immigration](http://www.immigration.gov.np/) und die [nepalesische Botschaft in Berlin](http://de.nepalembassy.gov.np/).
+
+Laut derzeitiger Auskunft der nepalesischen Einwanderungsbehörde soll die Visumerteilung bis zum Ende der Gültigkeit des Reisedokuments möglich sein. ==Auf eine Mindestrestgültigkeit des Passes von noch mindestens sechs Monaten ==sollte dennoch geachtet werden, da Fluggesellschaften die Beförderung von Passagieren sonst schon abgelehnt haben.
+##### _Visa-on-Arrival_
+Der Visa-on-Arrival-Service steht wieder zur Verfügung. Die Gebühren sollten passend in bar in USD bzw. der Gegenwert in EUR mitgeführt werden (15 Tage/30 USD, 30 Tage/50 USD, 90 Tage/125 USD).
+[CHECK HERE](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/nepal-node/nepalsicherheit/221216#content_0)
+#### Geld/Kreditkarten
+Landeswährung ist die nepalesische Rupie (NPR). Im Kathmandu-Tal besteht die Möglichkeit, sich über Geldautomaten mit Bargeld zu versorgen. Die meisten Automaten akzeptieren Visa- und Master-Kreditkarten; Bankkarten werden kaum akzeptiert.
+
+Neben Kreditkarten empfiehlt sich die Mitnahme von EUR oder USD in bar, insbesondere bei Reisen in weniger besiedelte Regionen.
+
+Devisen können in allen größeren Städten problemlos getauscht werden. Die indische Rupie (INR) ist in Nepal frei konvertierbar, allerdings werden Scheine in der Regel nur bis max. 100 INR-Noten akzeptiert.
+
+### Impfung
+
+#### COVID
+```ad-warning
+title: checken vor Abflug
+```
+
+- Stand: [[Day-Notes/2022/11-November/2022-11-19-Saturday\|2022-11-19-Saturday]]
+	- Für die Einreise ist entweder ein Nachweis über die ==vollständige COVID-19-Impfung ==oder ein negativer PCR-Test erforderlich. 
+	- Als vollständig geimpft gelten alle Reisenden 14 Tage nach der letzten notwendigen Impfung gemäß den WHO-Richtlinien für vollständigen Impfschutz. ==Der Impfnachweis (in Englisch) ist mitzuführen.==
+```ad-info
+Es gelten weiterhin Abstands- und Hygieneregeln sowie die Pflicht zum Tragen eines Mund-Nasen-Schutzes im öffentlichen Raum.
+```
+
+
+### Versicherung
+#### Reiserücktritt
+
+Welche Versicherung macht Sinn?
+
+Liste:
+
+#### Krankenversicherung
+
+### Impfung
 ### Guide
 #### Ganesh Trekkin
 ```ad-info
@@ -74,17 +118,6 @@ Sajan
 | Datum (von/bis) |   15 Tage$^{*}$  |  Datum muss geklärt werden  |
 $^{*}$  siehe: [[Nepal 2033#Streckenverlauf\|#Streckenverlauf]]
 
-### Versicherung
-
-#### Reiserücktritt
-
-Welche Versicherung macht Sinn?
-
-Liste:
-
-#### Krankenversicherung
-
-### Impfung
 
 ### Kaufen
 
