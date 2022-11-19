@@ -16,7 +16,7 @@ Deutsche Staatsangehörige benötigen für die Einreise ein Visum, das vorab bei
 Aktuelle Einreise- und Visabestimmungen und Gebühren bieten das [Department of Immigration](http://www.immigration.gov.np/) und die [nepalesische Botschaft in Berlin](http://de.nepalembassy.gov.np/).
 
 Laut derzeitiger Auskunft der nepalesischen Einwanderungsbehörde soll die Visumerteilung bis zum Ende der Gültigkeit des Reisedokuments möglich sein. ==Auf eine Mindestrestgültigkeit des Passes von noch mindestens sechs Monaten ==sollte dennoch geachtet werden, da Fluggesellschaften die Beförderung von Passagieren sonst schon abgelehnt haben.
-##### _Visa-on-Arrival_
+##### Visa-on-Arrival
 Der Visa-on-Arrival-Service steht wieder zur Verfügung. Die Gebühren sollten passend in bar in USD bzw. der Gegenwert in EUR mitgeführt werden (15 Tage/30 USD, 30 Tage/50 USD, 90 Tage/125 USD).
 [CHECK HERE](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/nepal-node/nepalsicherheit/221216#content_0)
 #### Geld/Kreditkarten
@@ -40,6 +40,18 @@ Devisen können in allen größeren Städten problemlos getauscht werden. Die in
 >[!INFO]
 Es gelten weiterhin Abstands- und Hygieneregeln sowie die Pflicht zum Tragen eines Mund-Nasen-Schutzes im öffentlichen Raum.
 
+### Gesundheit
+#### Durchfallerkrankungen
+
+Bei Durchfallerkrankungen handelt es sich um häufige Reiseerkrankungen, siehe [Merkblatt Durchfallerkrankungen](https://www.auswaertiges-amt.de/blob/200206/8c414cbefcaad8d79d86d85552dd5db7/durchfallmerkblatt-data.pdf "Merkblatt Durchfall (Diarrhoe)"). Durch eine entsprechende Lebensmittel- und Trinkwasserhygiene lassen sich die meisten Durchfallerkrankungen und auch Cholera (s.u.) jedoch vermeiden. Zum Schutz Ihrer Gesundheit beachten Sie daher folgende grundlegende Hinweise:
+
+-   ==Trinken Sie ausschließlich Wasser sicheren Ursprungs, nie Leitungswasser==. Durch Kauf von Flaschenwasser mit Kohlensäure kann eine bereits zuvor geöffnete Flasche leichter identifiziert werden.
+-   Benutzen Sie unterwegs auch zum Geschirrspülen und Zähneputzen möglichst Trinkwasser.
+-   Falls kein Flaschenwasser zur Verfügung steht, verwenden Sie gefiltertes, desinfiziertes oder abgekochtes Wasser.
+-   ==Kochen oder schälen Sie Nahrungsmitteln selbst==.
+-   Halten Sie unbedingt Fliegen von Ihrer Verpflegung fern.
+-   Waschen Sie sich so oft wie möglich mit Seife die Hände, stets jedoch vor der Essenszubereitung und vor dem Essen.
+-   Wenn möglich, desinfizieren Sie Ihre Hände mit Flüssigdesinfektionsmittel.
 ### Versicherung
 #### Reiserücktritt
 
@@ -49,7 +61,6 @@ Liste:
 
 #### Krankenversicherung
 
-### Impfung
 ### Guide
 #### Ganesh Trekkin
 >[!INFO] Prem ist der Guid meines letzten Nepal-Aufenthalts
@@ -110,6 +121,12 @@ $^{*}$  siehe: [[Nepal 2033#Streckenverlauf\|#Streckenverlauf]]
 
 
 >
+
+### Gepäck
+
+- [ ] Hand-Desinfektion
+- [ ] 
+
 
 ### Kaufen
 
