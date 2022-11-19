@@ -29,10 +29,9 @@ Devisen können in allen größeren Städten problemlos getauscht werden. Die in
 ### Impfung
 >[!INFO] Impfung
 >Für die direkte Einreise aus Deutschland sind keine Pflichtimpfungen vorgeschrieben.
-
+-   Als Reiseimpfungen werden Impfungen gegen ==Hepatitis A ==und ==Typhus==, bei Langzeitaufenthalt oder besonderer Exposition auch gegen ==Hepatitis B==, ==Tollwut== und ==Japanische Enzephalitis== empfohlen.
 #### COVID
 >[!WARNING] checken vor Abflug
-
 
 - Stand: [[Day-Notes/2022/11-November/2022-11-19-Saturday\|2022-11-19-Saturday]]
 	- Für die Einreise ist entweder ein Nachweis über die ==vollständige COVID-19-Impfung ==oder ein negativer PCR-Test erforderlich. 
@@ -41,6 +40,10 @@ Devisen können in allen größeren Städten problemlos getauscht werden. Die in
 Es gelten weiterhin Abstands- und Hygieneregeln sowie die Pflicht zum Tragen eines Mund-Nasen-Schutzes im öffentlichen Raum.
 
 ### Gesundheit
+#### Dengue-Fieber
+-   Schützen Sie sich zur Vermeidung von Dengue-Fieber im Rahmen einer [Expositionsprophylaxe](https://www.auswaertiges-amt.de/blob/251022/943b4cd16cd1693bcdd2728ef29b85a7/expositionsprophylaxeinsektenstiche-data.pdf "Expositionsprophylaxe - Verhütung von Infektionskrankheiten durch Schutz vor Insektenstichen") insbesondere tagsüber konsequent vor Mückenstichen.
+#### Malaria
+-   Stellen Sie sich beim Auftreten von Fieber während oder auch noch Monate nach einer entsprechenden Reise schnellstmöglich beim Arzt vor und weisen Sie ihn auf den Aufenthalt in einem Malariagebiet hin.
 #### Durchfallerkrankungen
 
 Bei Durchfallerkrankungen handelt es sich um häufige Reiseerkrankungen, siehe [Merkblatt Durchfallerkrankungen](https://www.auswaertiges-amt.de/blob/200206/8c414cbefcaad8d79d86d85552dd5db7/durchfallmerkblatt-data.pdf "Merkblatt Durchfall (Diarrhoe)"). Durch eine entsprechende Lebensmittel- und Trinkwasserhygiene lassen sich die meisten Durchfallerkrankungen und auch Cholera (s.u.) jedoch vermeiden. Zum Schutz Ihrer Gesundheit beachten Sie daher folgende grundlegende Hinweise:
