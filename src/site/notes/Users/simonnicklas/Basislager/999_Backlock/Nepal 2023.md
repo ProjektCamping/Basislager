@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/users/simonnicklas/basislager/999-backlock/nepal-2023/"}
+{"dg-publish":true,"permalink":"/users/simonnicklas/basislager/999-backlock/nepal-2023/","dgPassFrontmatter":true}
 ---
 
 
