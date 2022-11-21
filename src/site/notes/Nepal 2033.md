@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nepal-2033/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/nepal-2033/"}
 ---
 
 #Reise #Nepal
