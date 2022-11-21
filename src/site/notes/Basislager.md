@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/basislager/","tags":"gardenEntry","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/basislager/","tags":"gardenEntry"}
 ---
 
 
