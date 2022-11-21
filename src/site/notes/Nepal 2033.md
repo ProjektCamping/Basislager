@@ -6,6 +6,52 @@
 
 > [!TIP] 25.03.2023 bis 16.04.2023
 
+
+- [[Nepal 2033#Einreise\|Einreise]]
+	- [[Nepal 2033#Einreise\|Visum]]
+		- [[Nepal 2033#Visum\|Visa-on-Arrival]]
+	- [[Nepal 2033#Einreise\|Geld/Kreditkarten]]
+- [[Nepal 2033#Impfung\|Impfung]]
+	- [[Nepal 2033#Impfung\|COVID]]
+- [[Nepal 2033#Gesundheit\|Gesundheit]]
+	- [[Nepal 2033#Gesundheit\|Dengue-Fieber]]
+	- [[Nepal 2033#Gesundheit\|Malaria]]
+	- [[Nepal 2033#Gesundheit\|Durchfallerkrankungen]]
+- [[Nepal 2033#Versicherung\|Versicherung]]
+	- [[Nepal 2033#Versicherung\|Reiserücktritt]]
+	- [[Nepal 2033#Versicherung\|Krankenversicherung]]
+- [[Nepal 2033#Guide\|Guide]]
+	- [[Nepal 2033#Guide\|Ganesh Trekkin]]
+		- [[Nepal 2033#Ganesh Trekkin\|Korrespondenz]]
+	- [[Nepal 2033#Guide\|Lets trip Nepal]]
+		- [[Nepal 2033#Lets trip Nepal\|Korrespondenz]]
+- [[Nepal 2033#Gepäck\|Gepäck]]
+- [[Nepal 2033#Kaufen\|Kaufen]]
+- [[Nepal 2033#Routen\|Routen]]
+- [[Nepal 2033#Routen\|Manaslu Circuit]]
+	- [[Nepal 2033#Manaslu Circuit\|Steckbrief der Route]]
+	- [[Nepal 2033#Manaslu Circuit\|Streckenverlauf]]
+		- [[Nepal 2033#Streckenverlauf\|Etappen]]
+			- [[Nepal 2033#Etappen\|Day 1Drive Kathmandu to Soti Khola (700m) via Arughat Bazaar (550m)]]
+			- [[Nepal 2033#Etappen\|Day 2Trek Soti Khola to Machha Khola (930m)]]
+			- [[Nepal 2033#Etappen\|Day 3Trek Machha Khola to Jagat (1,340m)]]
+			- [[Nepal 2033#Etappen\|Day 4Trek Jagat to Deng (1,860m)]]
+			- [[Nepal 2033#Etappen\|Day 5Trek Deng to Namrung (2,630m)]]
+			- [[Nepal 2033#Etappen\|Day 6Trek Namrung to Samagaon (3,530m)]]
+			- [[Nepal 2033#Etappen\|Day 7Acclimatization Day]]
+			- [[Nepal 2033#Etappen\|Day 8Trek Samagaon to Samdo (3,865m)]]
+			- [[Nepal 2033#Etappen\|Day 9Trek Samdo to Dharmsala/Larke Phedi (4460m)]]
+			- [[Nepal 2033#Etappen\|Day 10Trek Dharmasala to Bhimtang (3,590m) via Larke La Pass (5,160m)]]
+			- [[Nepal 2033#Etappen\|Day 11Trek Bhimthang to Tiliche (2,300m)]]
+			- [[Nepal 2033#Etappen\|Day 12Trek Tiliche to Chyamche (1,430m)]]
+			- [[Nepal 2033#Etappen\|Day 13Drive Chyamche to Kathmandu]]
+	- [[Nepal 2033#Manaslu Circuit\|Linksammlung]]
+- [[Nepal 2033#Zeitplan\|Zeitplan]]
+- [[Nepal 2033#Zeitplan\|Cloud File]]
+
+
+
+
 ---
 # Vorbereitung
 > [!INFO] [Link des Auswertigenamts](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/nepal-node/nepalsicherheit/221216#content_0)
