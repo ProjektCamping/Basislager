@@ -6,7 +6,6 @@
 
 > [!TIP] 25.03.2023 bis 16.04.2023
 
-
 ---
 # Vorbereitung
 > [!INFO] [Link des Auswertigenamts](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/nepal-node/nepalsicherheit/221216#content_0)
