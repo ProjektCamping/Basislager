@@ -8,8 +8,41 @@
 Tags: #Reise #Nepal
 
 > [!TIP] Reisezeit
-> 25.03.2023 bis 16.04.2023
+> Samstag, 25.03.2023 bis Sonntag, 16.04.2023
+> 
 
+>[!warning] ToDo
+>Was ist aktuell zu klären
+> - [ ] kären ob wir Gepäck in Kathmandu lassen können📅 2022-11-29 #Nepal 
+> - [ ] In Erfahrung bringen wieviel [[Nepal Reise 2023#Tips\|#Tips]] man gibt #Nepal 
+> - [ ] 
+
+# Planung
+| Tag                       | Vorhaben                |Anmerkung     | 
+| ------------------------- | ----------------------- | --- |
+| **Samstag, 25.3.2023**    | 🛫 20:10 Frankfurt  |     |
+| **Sonntag, 26.3.2023**    | 🛬 14:20 Kathmandu        |     |
+| **Montag, 27.3.2023**     | Tag in Kathmandu       |     |
+| **Dienstag, 28.3.2023**   | Manaslu Tag1            |  ❓reicht das mit Permit?   |
+| **Mittwoch, 29.3.2023**   |                         |     |
+| **Donnerstag, 30.3.2023** |                         |     |
+| **Freitag, 31.3.2023**    |                         |     |
+| **Samstag, 1.4.2023**     |                         |     |
+| **Sonntag, 2.4.2023**     |                         |     |
+| **Montag, 3.4.2023**      |                         |     |
+| **Dienstag, 4.4.2023**    |                         |     |
+| **Mittwoch, 5.4.2023**    |                         |     |
+| **Donnerstag, 6.4.2023**  |                         |     |
+| **Freitag, 7.4.2023**     |                         |     |
+| **Samstag, 8.4.2023**     |                         |     |
+| **Sonntag, 9.4.2023**     |                         |     |
+| **Montag, 10.4.2023**     | Manaslu Tag14           |     |
+| **Dienstag, 11.4.2023**   |                         |     |
+| **Mittwoch, 12.4.2023**   |                         |     |
+| **Donnerstag, 13.4.2023** |                         |     |
+| **Freitag, 14.4.2023**    |                         |     |
+| **Samstag, 15.4.2023**    |                         |     |
+| **Sonntag, 16.4.2023**    |     🛫 10:25 Kathmandu Rückflug -> 18:40 Frankfurt🛬                   |     |
 
 # Vorbereitung
 > [!INFO] [Link des Auswertigenamts](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/nepal-node/nepalsicherheit/221216#content_0)
@@ -69,6 +102,9 @@ Liste:
 #### Krankenversicherung
 
 ### Guide
+#### Tips
+Wieviel tips gibt man? 
+ca.???????
 #### Ganesh Trekkin
 >[!INFO] Prem ist der Guid meines letzten Nepal-Aufenthalts
 - **Email:** ganeshTrekking@gmail.com
