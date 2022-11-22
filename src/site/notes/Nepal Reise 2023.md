@@ -116,7 +116,7 @@ ca.???????
 
 #####  Korrespondenz
 
- > [!note]+ [[Day-Notes/2022/11-November/2022-11-19-Saturday\|2022-11-19-Saturday]] outEmail
+ > [!note]- [[Day-Notes/2022/11-November/2022-11-19-Saturday\|2022-11-19-Saturday]] outEmail
 >Namaste,
 >Simon here, a German friend of Prem. He guided us some years ago in Nepal. And we had a very nice time together. 
 >Now I want to come back with 2 friend to Nepal next year again. 
@@ -126,7 +126,7 @@ ca.???????
 >All the best 
 >Simon & Paul & Lukas
 
->[!note]+ [[Day-Notes/2022/11-November/2022-11-19-Saturday\|2022-11-19-Saturday]]  inEmail
+>[!note]- [[Day-Notes/2022/11-November/2022-11-19-Saturday\|2022-11-19-Saturday]]  inEmail
 >
 >Greetings from Ganesh trekking,
 >
@@ -140,7 +140,7 @@ ca.???????
 >
 >Sajan
 
->[!note]+ [[Day-Notes/2022/11-November/2022-11-19-Saturday\|2022-11-19-Saturday]] outEmail
+>[!note]- [[Day-Notes/2022/11-November/2022-11-19-Saturday\|2022-11-19-Saturday]] outEmail
 >Hallo Sajan, 
 >
 >Thank you for the very fast respond. 
@@ -155,8 +155,7 @@ ca.???????
 >
 >Looking forward to your respond.
 
-
->[!note]+ [[Day-Notes/2022/11-November/2022-11-19-Saturday\|2022-11-19-Saturday]] inEmail
+>[!note]- [[Day-Notes/2022/11-November/2022-11-19-Saturday\|2022-11-19-Saturday]] inEmail
 >Dear Simon,
 >
 >Before I send you a program, I would like to know the exact time you are landing at Kathmandu airport.  Please would you mind sending me your flight details so that i can arrange one day or few hours for taking your permit for trekking? For that, I need an original passport for taking permit within office hour here in Nepal.
@@ -165,7 +164,7 @@ ca.???????
 >Best regards,
 >Sajan
 
->[!note]+ [[Day-Notes/2022/11-November/2022-11-21-Monday\|2022-11-21-Monday]] outEmail
+>[!note]- [[Day-Notes/2022/11-November/2022-11-21-Monday\|2022-11-21-Monday]] outEmail
 >
 >Hello Sajan, 
 >Thank you so much that you are responding so fast. Before we fix that program with you, I would like to have an overview about the tour and the cost for the guiding. I would like to discuss that together with my traveling partners. So I would really like to receive first of all deeper informations from you. 
