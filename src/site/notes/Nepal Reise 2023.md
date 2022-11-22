@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nepal-reise-2023/"}
+{"dg-publish":true,"permalink":"/nepal-reise-2023/","tags":"gardenEntry"}
 ---
 
 # Nepal 2023
