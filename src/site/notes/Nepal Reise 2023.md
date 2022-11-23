@@ -12,10 +12,17 @@ Tags: #Reise #Nepal
 > 
 
 >[!warning] ToDo
->Was ist aktuell zu klären
-> - [ ] kären ob wir Gepäck in Kathmandu lassen können📅 2022-11-29 #Nepal 
-> - [ ] In Erfahrung bringen wieviel [[Nepal Reise 2023#Tips\|#Tips]] man gibt #Nepal 
-> - [ ] 
+>```tasks  
+> not done
+>path includes Nepal Reise 2023   
+>short mode
+>```
+
+
+Was ist aktuell zu klären
+ - [ ] kären ob wir Gepäck in Kathmandu lassen können📅 2022-11-29 #Nepal 
+ - [x] In Erfahrung bringen wieviel [[Nepal Reise 2023#Tips\|#Tips]] man gibt #Nepal ✅ 2022-11-22
+- [ ] 
 
 # Planung
 | Tag                       | Vorhaben                |Anmerkung     | 
@@ -104,7 +111,11 @@ Liste:
 ### Guide
 #### Tips
 Wieviel tips gibt man? 
-ca.???????
+
+Trinkgeld wird erwartet und gehört tatsächlich einfach dazu. Jede andere Aussage entspräche nicht der Wahrheit. Selbstverständlich hängt die Höhe davon ab, wie zufrieden Sie mit der Leistung Ihrer Mannschaft waren. Zur groben Orientierung: 
+==5-6 € pro Person und Trekkingtag ist angemessen==. Im (teuren) Everest-Gebiet darf es gern etwas mehr sein, bei sehr guter Leistung ebenfalls.
+
+Unsere Empfehlung: Überschlagen Sie vor dem Trek, wie viel Trinkgeld Sie in etwa brauchen werden und halten Sie dieses Geld möglichst passend bereit. Übergeben Sie das Trinkgeld für die gesamte Mannschaft  mit ein paar Worten des Dankes und des Lobes am besten am Vorabend vor Beendigung des Treks.
 #### Ganesh Trekkin
 >[!INFO] Prem ist der Guid meines letzten Nepal-Aufenthalts
 - **Email:** ganeshTrekking@gmail.com
