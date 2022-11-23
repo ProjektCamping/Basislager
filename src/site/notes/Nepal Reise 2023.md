@@ -13,11 +13,11 @@ Tags: #Reise #Nepal
 
 >[!warning] *Übersicht über alle ToDos*
 >
-| Task                                                                      | Status | Due Date          | link                                                              |
-| ------------------------------------------------------------------------- | ------ | ----------------- | ----------------------------------------------------------------- |
-| kären ob wir Gepäck in Kathmandu lassen können📅 2022-11-29 #Nepal #tasks | todo   | November 29, 2022 | [[Nepal Reise 2023#Nepal 2023\|Nepal Reise 2023 > Nepal 2023]] |
-| In Erfahrung bringen wieviel                                              | done   | \-                | [[Nepal Reise 2023#Nepal 2023\|Nepal Reise 2023 > Nepal 2023]] |
-| Wieviel tips gibt man? ✅ 2022-11-23                                       | done   | \-                | [[Nepal Reise 2023#Tips\|Nepal Reise 2023 > Tips]]             |
+| Task                                                                       | Status | Due Date          | link                                                              |
+| -------------------------------------------------------------------------- | ------ | ----------------- | ----------------------------------------------------------------- |
+| kären ob wir Gepäck in Kathmandu lassen können📅 2022-11-29 #Nepal #tasks  | todo   | November 29, 2022 | [[Nepal Reise 2023#Nepal 2023\|Nepal Reise 2023 > Nepal 2023]] |
+| In Erfahrung bringen wieviel [[Nepal Reise 2023#Tips\|#Tips]] man gibt #Nepal #tasks ✅ 2022-11-23 | done   | \-                | [[Nepal Reise 2023#Nepal 2023\|Nepal Reise 2023 > Nepal 2023]] |
+| Wieviel tips gibt man? ✅ 2022-11-23                                        | done   | \-                | [[Nepal Reise 2023#Tips\|Nepal Reise 2023 > Tips]]             |
 
 
 
