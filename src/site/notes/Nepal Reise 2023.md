@@ -11,13 +11,10 @@ Tags: #Reise #Nepal
 > Samstag, 25.03.2023 bis Sonntag, 16.04.2023
 > 
 
->[!warning] *Übersicht über alle ToDos*
+>[!warning] *Übersicht über alle offenen ToDos*
 >
-| Task                                                                       | Status | Due Date          | link                                                              |
-| -------------------------------------------------------------------------- | ------ | ----------------- | ----------------------------------------------------------------- |
-| kären ob wir Gepäck in Kathmandu lassen können📅 2022-11-29 #Nepal #tasks  | todo   | November 29, 2022 | [[Nepal Reise 2023#Nepal 2023\|Nepal Reise 2023 > Nepal 2023]] |
-| In Erfahrung bringen wieviel [[Nepal Reise 2023#Tips\|#Tips]] man gibt #Nepal #tasks ✅ 2022-11-23 | done   | \-                | [[Nepal Reise 2023#Nepal 2023\|Nepal Reise 2023 > Nepal 2023]] |
-| Wieviel tips gibt man? ✅ 2022-11-23                                        | done   | \-                | [[Nepal Reise 2023#Tips\|Nepal Reise 2023 > Tips]]             |
+- [ ] kären ob wir Gepäck in Kathmandu lassen können📅 2022-11-29 #Nepal #tasks
+
 
 
 
@@ -25,37 +22,37 @@ Tags: #Reise #Nepal
 
 Was ist aktuell zu klären
  - [ ] kären ob wir Gepäck in Kathmandu lassen können📅 2022-11-29 #Nepal #tasks
- - [x] In Erfahrung bringen wieviel [[Nepal Reise 2023#Tips\|#Tips]] man gibt #Nepal #tasks ✅ 2022-11-23
+ - [x] In Erfahrung bringen wieviel [[Nepal Reise 2023#Tips (Trinkgeld)\|#Tips (Trinkgeld)]] man gibt #Nepal #tasks ✅ 2022-11-23
 
 
 
 
 # Planung
-| Tag                       | Vorhaben                |Anmerkung     | 
-| ------------------------- | ----------------------- | --- |
-| **Samstag, 25.3.2023**    | 🛫 20:10 Frankfurt  |     |
-| **Sonntag, 26.3.2023**    | 🛬 14:20 Kathmandu        |     |
-| **Montag, 27.3.2023**     | Tag in Kathmandu       |     |
-| **Dienstag, 28.3.2023**   | Manaslu Tag1            |  ❓reicht das mit Permit?   |
-| **Mittwoch, 29.3.2023**   |                         |     |
-| **Donnerstag, 30.3.2023** |                         |     |
-| **Freitag, 31.3.2023**    |                         |     |
-| **Samstag, 1.4.2023**     |                         |     |
-| **Sonntag, 2.4.2023**     |                         |     |
-| **Montag, 3.4.2023**      |                         |     |
-| **Dienstag, 4.4.2023**    |                         |     |
-| **Mittwoch, 5.4.2023**    |                         |     |
-| **Donnerstag, 6.4.2023**  |                         |     |
-| **Freitag, 7.4.2023**     |                         |     |
-| **Samstag, 8.4.2023**     |                         |     |
-| **Sonntag, 9.4.2023**     |                         |     |
-| **Montag, 10.4.2023**     | Manaslu Tag14           |     |
-| **Dienstag, 11.4.2023**   |                         |     |
-| **Mittwoch, 12.4.2023**   |                         |     |
-| **Donnerstag, 13.4.2023** |                         |     |
-| **Freitag, 14.4.2023**    |                         |     |
-| **Samstag, 15.4.2023**    |                         |     |
-| **Sonntag, 16.4.2023**    |     🛫 10:25 Kathmandu Rückflug -> 18:40 Frankfurt🛬                   |     |
+| Tag                       | Vorhaben                                         | Anmerkung                |
+| ------------------------- | ------------------------------------------------ | ------------------------ |
+| **Samstag, 25.3.2023**    | 🛫 20:10 Frankfurt                               |                          |
+| **Sonntag, 26.3.2023**    | 🛬 14:20 Kathmandu                               |                          |
+| **Montag, 27.3.2023**     | Tag in Kathmandu                                 |                          |
+| **Dienstag, 28.3.2023**   | Manaslu Tag1                                     | ❓reicht das mit Permit? Ja würde reichen wenn wir Dienstag starten (sagt Suman) |
+| **Mittwoch, 29.3.2023**   |                                                  |                          |
+| **Donnerstag, 30.3.2023** |                                                  |                          |
+| **Freitag, 31.3.2023**    |                                                  |                          |
+| **Samstag, 1.4.2023**     |                                                  |                          |
+| **Sonntag, 2.4.2023**     |                                                  |                          |
+| **Montag, 3.4.2023**      |                                                  |                          |
+| **Dienstag, 4.4.2023**    |                                                  |                          |
+| **Mittwoch, 5.4.2023**    |                                                  |                          |
+| **Donnerstag, 6.4.2023**  |                                                  |                          |
+| **Freitag, 7.4.2023**     |                                                  |                          |
+| **Samstag, 8.4.2023**     |                                                  |                          |
+| **Sonntag, 9.4.2023**     |                                                  |                          |
+| **Montag, 10.4.2023**     | Manaslu Tag14                                    |                          |
+| **Dienstag, 11.4.2023**   |                                                  |                          |
+| **Mittwoch, 12.4.2023**   |                                                  |                          |
+| **Donnerstag, 13.4.2023** |                                                  |                          |
+| **Freitag, 14.4.2023**    |                                                  |                          |
+| **Samstag, 15.4.2023**    |                                                  |                          |
+| **Sonntag, 16.4.2023**    | 🛫 10:25 Kathmandu Rückflug -> 18:40 Frankfurt🛬 |                          |
 
 # Vorbereitung
 > [!INFO] [Link des Auswertigenamts](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/nepal-node/nepalsicherheit/221216#content_0)
@@ -115,7 +112,7 @@ Liste:
 #### Krankenversicherung
 
 ### Guide
-#### Tips
+#### Tips (Trinkgeld)
 - [x] Wieviel tips gibt man? ✅ 2022-11-23
 
 Trinkgeld wird erwartet und gehört tatsächlich einfach dazu. Jede andere Aussage entspräche nicht der Wahrheit. Selbstverständlich hängt die Höhe davon ab, wie zufrieden Sie mit der Leistung Ihrer Mannschaft waren. Zur groben Orientierung: 
@@ -140,8 +137,8 @@ Unsere Empfehlung: Überschlagen Sie vor dem Trek, wie viel Trinkgeld Sie in et
 
 |                 |               | Anmerkungen               |
 | --------------- | ------------- | ------------------------- |
-| **Preis**       | €             |                           |
-| Datum (von/bis) | 15 Tage$^{*}$ | Datum muss geklärt werden |
+| **Preis**       | €     1220€        |                           |
+| Datum (von/bis) | 14 Tage$^{*}$ | Datum muss geklärt werden |
 |                 |               |                           |
 
 ##### Optionen
@@ -202,8 +199,15 @@ Basically when I booked the trip I booked with full plan
 
 ### Gepäck
 Eine Liste an Dingen die mitzunehmen sind. 
+
+#### Essen & Trinken
+- Chlortabletten micropur
 - 
 
+#### Ausrüstung
+ - 
+#### Kamera
+Welche Kamera mit welchem Objektiv möchte ich mitnehmen?
 
 
 ### Kaufen
@@ -354,6 +358,7 @@ ___
 
 -   [Reisebericht](https://wetraveltheworld.de/manaslu-circuit-reisetipps/)
     -   Laut den beiden schwerer als _Anapurna_
+- https://www.nepalsocialtreks.com/manaslu-trek-cost/#:~:text=The%20accommodation%20in%20the%20Manaslu,whole%20price%20of%20the%20room
 
  „Manaslu“ kommt aus dem Sanskrit und bedeutet so viel wie Berg der Seele.
  
