@@ -20,9 +20,15 @@ Tags: #Reise #Nepal
 
 
 Was ist aktuell zu klären
- - [ ] kären ob wir Gepäck in Kathmandu lassen können📅 2022-11-29 #Nepal 
- - [x] In Erfahrung bringen wieviel [[Nepal Reise 2023#Tips\|#Tips]] man gibt #Nepal ✅ 2022-11-22
-- [ ] 
+ - [ ] kären ob wir Gepäck in Kathmandu lassen können📅 2022-11-29 #Nepal #tasks
+ - [x] In Erfahrung bringen wieviel [[Nepal Reise 2023#Tips\|#Tips]] man gibt #Nepal ✅ 2022-11-22 #tasks
+
+| Task                                                                      | Status      | Completion Date   | Due Date          | Created Date | Priority | Subtasks  | Subtasks status | File                                      |
+| ------------------------------------------------------------------------- | ----------- | ----------------- | ----------------- | ------------ | -------- | --------- | --------------- | ----------------------------------------- |
+| kären ob wir Gepäck in Kathmandu lassen können📅 2022-11-29 #Nepal #tasks | incompleted | \-                | November 29, 2022 | \-           | \-       | <ul></ul> | <ul></ul>       | [[Nepal Reise 2023\|Nepal Reise 2023]] |
+| In Erfahrung bringen wieviel                                              | completed   | November 22, 2022 | \-                | \-           | \-       | <ul></ul> | <ul></ul>       | [[Nepal Reise 2023\|Nepal Reise 2023]] |
+| Hand-Desinfektion                                                         | incompleted | \-                | \-                | \-           | \-       | <ul></ul> | <ul></ul>       | [[Nepal Reise 2023\|Nepal Reise 2023]] |
+
 
 # Planung
 | Tag                       | Vorhaben                |Anmerkung     | 
